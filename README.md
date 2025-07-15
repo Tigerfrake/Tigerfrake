@@ -1,7 +1,8 @@
-I am currently a Web3 Security Researcher
+## I am a Web3 SR
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tigerfrake)   [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Tigerfrake)   [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Tigerfrake)   [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:brightoneotis1@gmail.com) 
 
+### Languages
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Move](https://img.shields.io/badge/Move-%23000000.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHERE_YOUR_BASE64_ENCODED_MOVE_LOGO&logoColor=white)  ![Cairo](https://img.shields.io/badge/Cairo-%23000000.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHERE_YOUR_BASE64_ENCODED_CAIRO_LOGO&logoColor=white)
 
 ### 
