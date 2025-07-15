@@ -1,4 +1,3 @@
-# BIO:
 I am currently a Web3 Security Researcher
 
 
