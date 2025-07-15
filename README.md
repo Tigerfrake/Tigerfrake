@@ -15,3 +15,11 @@
 [![](https://visitcount.itsvg.in/api?id=Tigerfrake&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## Previous Performance (TOP 10 FINISHES)
+| Protocol       | Language | Platform   | Rank           | HMs         |
+|----------------|----------|------------|----------------|-------------|
+| Superposition  | Rust     | c4         | 3              | 1H,2M(1solo)|
+| MANTRA DEX     | Rust     | c4         | 9              | 4H, 3M      |
+| Predy          | Solidity | c4         | 8              | 1H, 4M      |
+| StarkNet       | Cairo    | CodeHawks  | 3              | 2H, 3M, 1L  |
