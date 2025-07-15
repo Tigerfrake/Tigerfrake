@@ -16,7 +16,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## Previous Performance (TOP 10 FINISHES)
+## Previous Audits (TOP 10 FINISHES)
 | Protocol       | Language | Platform   | Rank           | HMs         |
 |----------------|----------|------------|----------------|-------------|
 | Superposition  | Rust     | c4         | 3              | 1H,2M(1solo)|
