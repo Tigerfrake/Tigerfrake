@@ -19,7 +19,7 @@
 ## Previous Audits (Top-10 finishes)
 | Protocol       | Language | Platform   | Rank           | HMs         |
 |----------------|----------|------------|----------------|-------------|
-| SUPERPOSITION  | Rust     | c4         | 3🥉              | 1H,2M(1solo)|
+| SUPERPOSITION  | Rust     | c4         | 🥉              | 1H,2M(1solo)|
 | MANTRA DEX     | Rust     | c4         | 9              | 4H, 3M      |
 | PREDY          | Solidity | c4         | 8              | 1H, 4M      |
 | STARKNET       | Cairo    | CodeHawks  | 4              | 2H, 3M, 1L  |
