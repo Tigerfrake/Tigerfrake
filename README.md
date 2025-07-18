@@ -5,10 +5,6 @@
 ### Languages:
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Move](https://img.shields.io/badge/Move-%23000000.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHERE_YOUR_BASE64_ENCODED_MOVE_LOGO&logoColor=white)  ![Cairo](https://img.shields.io/badge/Cairo-%23000000.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHERE_YOUR_BASE64_ENCODED_CAIRO_LOGO&logoColor=white)
 
-### 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
----
-
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Tigerfrake&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
