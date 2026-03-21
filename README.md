@@ -5,7 +5,7 @@
 ## Previous Audits (Top-10 finishes)
 | Protocol       | Language | Platform   | Rank           | Findings    |
 |----------------|----------|------------|----------------|-------------|
-| RUJIRA         | Rust     | c4         |        2nd       | [3H, 6M](https://code4rena.com/audits/2025-12-rujira)  |
+| RUJIRA         | Rust     | c4         |        🥈       | [3H, 6M](https://code4rena.com/audits/2025-12-rujira)  |
 | SUPERPOSITION  | Rust     | c4         |       🥉       | [1H, 2M(1solo)](https://code4rena.com/audits/2024-10-superposition)|
 | STARKNET       | Cairo    | CodeHawks  |        4th       | [2H, 3M, 1L](https://codehawks.cyfrin.io/c/2024-09-starknet-staking/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard)  |
 | MANTRA DEX     | Rust     | c4         |        9th       | [4H, 3M](https://code4rena.com/audits/2024-11-mantra-dex)      |
