@@ -9,7 +9,7 @@ Significant DeFi experience (lending, staking, DEXes, yield farming ) & understa
 #### 🥌 [Audit Portfolio](https://audits.sherlock.xyz/watson/Tigerfrake)
 
 
-## Public Contests: Top 10 Finishes (> $20k in Rewards)
+### Public Contests: Top 10 Finishes (> $20k in Rewards)
 | Protocol       | Language | Platform   | Rank           | Findings    |
 |----------------|----------|------------|----------------|-------------|
 | RUJIRA         | Rust     | Code4rena        |        🥈       | [3H, 6M](https://code4rena.com/audits/2025-12-rujira)  |
@@ -20,17 +20,18 @@ Significant DeFi experience (lending, staking, DEXes, yield farming ) & understa
 | MANTRA DEX     | Rust     | Code4rena         |        9th       | [4H, 3M](https://code4rena.com/audits/2024-11-mantra-dex)      |
 
 
-## Bug Bounty
+### Bug Bounty
 | Protocol       | Language | Platform   | Findings    |
 |----------------|----------|------------|----------------|
 | SNOWBRIDGE         | Solidity     | HackenProof     | 1 Low  |
 
-## Private Engagements
+### Private Engagements
 | Protocol       | Language | Firm   | Report   |
 |----------------|----------|------------|----------------|
-| BtrFi        | Solidity     | PashovAuditGroup     | 1 Low  |
-| Pump        | Rust     | PashovAuditGroup     | 1 Low  |
-| Regnu        | Solidity     | PashovAuditGroup     | 1 Low  |
-| Bob        | Rust     | PashovAuditGroup     | 1 Low  |
-| Pumpcade        | Rust     | PashovAuditGroup     | 1 Low  |
+| BtrFi        | Solidity     | PashovAuditGroup     | NDA |
+| Pump        | Rust     | PashovAuditGroup     | Private  |
+| Starknet        | Cairo     | PashovAuditGroup     | Private  |
+| Regnu        | Solidity     | PashovAuditGroup     | Private  |
+| Bob        | Rust     | PashovAuditGroup     | NDA  |
+| Pumpcade        | Rust     | PashovAuditGroup     | Private  |
 
