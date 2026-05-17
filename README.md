@@ -23,7 +23,7 @@ Significant DeFi experience (lending, staking, DEXes, yield farming ) & understa
 ### Bug Bounty
 | Protocol       | Language | Platform   | Findings    |
 |----------------|----------|------------|----------------|
-| Snowbridge        | Solidity     | HackenProof     | 1 Low  |
+| [Snowbridge](https://dashboard.hackenproof.com/user/programs/snowbridge-on-chain-code)        | Solidity     | HackenProof     | 1 Low  |
 
 ### Private Engagements
 | Protocol       | Language | Firm   | Report   |
