@@ -30,7 +30,7 @@ Significant DeFi experience (lending, staking, DEXes, yield farming ) & understa
 |----------------|----------|------------|----------------|
 | BtrFi        | Solidity     | PashovAuditGroup     | NDA |
 | Pump        | Rust     | PashovAuditGroup     | Private  |
-| Starknet        | Cairo     | PashovAuditGroup     | Private  |
+| Starknet        | Cairo     | PashovAuditGroup     | [Link](https://github.com/pashov/audits/blob/master/team/pdf/Starknet-security-review_2025-07-31.pdf)  |
 | Regnu        | Solidity     | PashovAuditGroup     | Private  |
 | Bob        | Rust     | PashovAuditGroup     | NDA  |
 | Pumpcade        | Rust     | PashovAuditGroup     | Private  |
