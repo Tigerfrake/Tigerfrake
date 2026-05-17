@@ -1,10 +1,15 @@
+3+ years of blockchain security research experience - developed an attacker mindset before the age of AI auditing.
+
+### Expertise
+Proficiency in auditing smart contracts for EVM/Non-Evm chains:
+Significant DeFi experience (lending, staking, DEXes, yield farming ) & understanding of many industry-standard protocols like Uniswap, Morpho, Compound, Aave, as well as common cross-chain integrations like LayerZero.
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Move](https://img.shields.io/badge/Move-%23000000.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHERE_YOUR_BASE64_ENCODED_MOVE_LOGO&logoColor=white)  ![Cairo](https://img.shields.io/badge/Cairo-%23000000.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHERE_YOUR_BASE64_ENCODED_CAIRO_LOGO&logoColor=white)
 
 #### 🥌 [Audit Portfolio](https://audits.sherlock.xyz/watson/Tigerfrake)
 
 
-## Previous Audits (Top-10 finishes)
+## Public Contests: Top 10 Finishes (> $20k in Rewards)
 | Protocol       | Language | Platform   | Rank           | Findings    |
 |----------------|----------|------------|----------------|-------------|
 | RUJIRA         | Rust     | Code4rena        |        🥈       | [3H, 6M](https://code4rena.com/audits/2025-12-rujira)  |
@@ -14,4 +19,14 @@
 | CHAKRA          | Sol-Cairo | Code4rena         |        8th       | [4H, 5M](https://code4rena.com/audits/2024-08-chakra)      |
 | MANTRA DEX     | Rust     | Code4rena         |        9th       | [4H, 3M](https://code4rena.com/audits/2024-11-mantra-dex)      |
 
+
+## Bug Bounty
+| Protocol       | Language | Platform   | Findings    |
+|----------------|----------|------------|----------------|
+| SNOWBRIDGE         | Solidity     | HackenProof     | 1 Low  |
+
+## Private Engagements
+| Protocol       | Language | Firm   | Report   |
+|----------------|----------|------------|----------------|
+| BtrFi        | Solidity     | @PashovAuditGroup     | 1 Low  |
 
