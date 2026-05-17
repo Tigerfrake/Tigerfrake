@@ -28,5 +28,9 @@ Significant DeFi experience (lending, staking, DEXes, yield farming ) & understa
 ## Private Engagements
 | Protocol       | Language | Firm   | Report   |
 |----------------|----------|------------|----------------|
-| BtrFi        | Solidity     | @PashovAuditGroup     | 1 Low  |
+| BtrFi        | Solidity     | PashovAuditGroup     | 1 Low  |
+| Pump        | Rust     | PashovAuditGroup     | 1 Low  |
+| Regnu        | Solidity     | PashovAuditGroup     | 1 Low  |
+| Bob        | Rust     | PashovAuditGroup     | 1 Low  |
+| Pumpcade        | Rust     | PashovAuditGroup     | 1 Low  |
 
