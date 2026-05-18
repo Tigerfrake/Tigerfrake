@@ -27,14 +27,14 @@ Significant DeFi experience (lending, staking, DEXes, yield farming ) & understa
 | Snowbridge       | Solidity     | HackenProof     | [1 Low](https://x.com/Tigerfrake/status/1980533110698549606?s=20)  |
 
 ### Private Engagements
-| Protocol       | Language | Firm   |Dates   | Report   |
-|----------------|----------|------------|----------------|
-| Pumpcade        | Rust     | PashovAuditGroup     |27/04/26 - 08/05/26  | In Process  |
-| Bob        | Rust     | PashovAuditGroup     |27/08/25 - 30/08/25   | NDA  |
-| Starknet        | Cairo     | PashovAuditGroup     |25/07/25 - 15/08/25   | [Link](https://github.com/pashov/audits/blob/master/team/pdf/Starknet-security-review_2025-07-31.pdf)  |
-| BtrFi        | Solidity     | PashovAuditGroup     |15/07/25 - 22/07/25  | NDA |
-| Regnu        | Solidity     | PashovAuditGroup     |06/05/25 - 31/05/25   | Private  |
-| Pump        | Rust     | PashovAuditGroup     |18/03/25 - 24/03/25  | Private  |
+| Protocol | Language | Firm | Dates | Report |
+|----------|----------|------|-------|--------|
+| Pumpcade | Rust | PashovAuditGroup | 27/04/26 - 08/05/26 | In Process |
+| Bob | Rust | PashovAuditGroup | 27/08/25 - 30/08/25 | NDA |
+| Starknet | Cairo | PashovAuditGroup | 25/07/25 - 15/08/25 | [Link](https://github.com/pashov/audits/blob/master/team/pdf/Starknet-security-review_2025-07-31.pdf) |
+| BtrFi | Solidity | PashovAuditGroup | 15/07/25 - 22/07/25 | NDA |
+| Regnu | Solidity | PashovAuditGroup | 06/05/25 - 31/05/25 | Private |
+| Pump | Rust | PashovAuditGroup | 18/03/25 - 24/03/25 | Private |
 
 
 
