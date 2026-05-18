@@ -14,7 +14,7 @@ Significant DeFi experience (lending, staking, DEXes, yield farming ) & understa
 | Protocol       | Language | Platform   | Rank           | Findings    |
 |----------------|----------|------------|----------------|-------------|
 | Rujira         | Rust     | Code4rena        |        🥈       | [3H, 6M](https://code4rena.com/audits/2025-12-rujira)  |
-| Superposition | Rust     | Code4rena         |       🥉       | [1H, 2M(1solo)](https://code4rena.com/audits/2024-10-superposition)|
+| Superposition | Rust     | Code4rena         |       🥉       | [1H, 2M (1solo)](https://code4rena.com/audits/2024-10-superposition)|
 | Starknet      | Cairo    | CodeHawks  |        4th       | [2H, 3M, 1L](https://codehawks.cyfrin.io/c/2024-09-starknet-staking/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard)  |
 | Predy       | Solidity | Code4rena         |        8th       | [1H, 4M](https://code4rena.com/audits/2024-05-predy)      |
 | Chakra        | Sol-Cairo | Code4rena         |        8th       | [4H, 5M](https://code4rena.com/audits/2024-08-chakra)      |
@@ -29,7 +29,7 @@ Significant DeFi experience (lending, staking, DEXes, yield farming ) & understa
 ### Private Engagements
 | Protocol | Language | Firm | Dates | Report |
 |----------|----------|------|-------|--------|
-| Jito - Judging | Rust | PashovAuditGroup | 13/05/26 - 14/05/26 | N/A |
+| Jito (Judging) | Rust | PashovAuditGroup | 13/05/26 - 14/05/26 | N/A |
 | Pumpcade | Rust | PashovAuditGroup | 27/04/26 - 08/05/26 | In Process |
 | Bob | Rust | PashovAuditGroup | 27/08/25 - 30/08/25 | NDA |
 | Starknet | Cairo | PashovAuditGroup | 25/07/25 - 15/08/25 | [Link](https://github.com/pashov/audits/blob/master/team/pdf/Starknet-security-review_2025-07-31.pdf) |
