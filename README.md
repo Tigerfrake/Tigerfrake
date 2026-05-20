@@ -31,7 +31,8 @@ Significant DeFi experience (lending, staking, DEXes, yield farming ) & understa
 |----------|----------|------|-------|--------|
 | Pump | Rust | PashovAuditGroup | 20/05/26 - 16/06/26 | Audit In Progress |
 | Jito (Judging) | Rust | PashovAuditGroup | 13/05/26 - 14/05/26 | N/A |
-| Pumpcade | Rust | PashovAuditGroup | 27/04/26 - 08/05/26 | In Process |
+| Pumpcade | Rust | PashovAuditGroup | 13/04/26 - 16/04/26 | Report In Process |
+| Rewardy | Solidity | Shieldify | 27/04/26 - 08/05/26 | Report In Process |
 | Bob | Rust | PashovAuditGroup | 27/08/25 - 30/08/25 | NDA |
 | Starknet | Cairo | PashovAuditGroup | 25/07/25 - 15/08/25 | [Link](https://github.com/pashov/audits/blob/master/team/pdf/Starknet-security-review_2025-07-31.pdf) |
 | BtrFi | Rust | PashovAuditGroup | 15/07/25 - 22/07/25 | NDA |
