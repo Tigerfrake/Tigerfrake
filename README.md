@@ -33,7 +33,9 @@ Significant DeFi experience (lending, staking, DEXes, yield farming ) & understa
 | Jito (Judging) | Rust | PashovAuditGroup | B | 13/05/26 - 14/05/26 | N/A |
 | Pumpcade | Rust🦀 - Solana | PashovAuditGroup | C | 13/04/26 - 16/04/26 | Report In Process |
 | Rewardy | Solidity | Shieldify | D | 27/04/26 - 08/05/26 | Report In Process |
-| Bob | Rust🦀 - Native | PashovAuditGroup | E | 27/08/25 - 30/08/25 | NDA |
+| Bob | Rust🦀 - Native | PashovAuditGroup | BOB Gateway is a bridge solution that enables Bitcoin users to seamlessly onboard to the BOB
+L2 by swapping BTC for Ethereum-based assets (like wBTC or tBTC) via a trusted relayer and
+smart contracts, without requiring pre-existing ETH holdings. | 27/08/25 - 30/08/25 | NDA |
 | Starknet | Cairo | PashovAuditGroup | F | 25/07/25 - 15/08/25 | [Link](https://github.com/pashov/audits/blob/master/team/pdf/Starknet-security-review_2025-07-31.pdf) |
 | BtrFi | Rust🦀 - Solana | PashovAuditGroup | G | 15/07/25 - 22/07/25 | NDA |
 | Regnu | Solidity | PashovAuditGroup | H | 06/05/25 - 31/05/25 | Private |
