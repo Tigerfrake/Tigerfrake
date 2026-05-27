@@ -37,7 +37,7 @@ Significant DeFi experience (lending, staking, DEXes, yield farming ) & understa
 | Starknet | Cairo | PashovAuditGroup | F | 25/07/25 - 15/08/25 | [Link](https://github.com/pashov/audits/blob/master/team/pdf/Starknet-security-review_2025-07-31.pdf) |
 | BtrFi | Rust🦀 - Solana | PashovAuditGroup | G | 15/07/25 - 22/07/25 | NDA |
 | Regnu | Solidity | PashovAuditGroup | H | 06/05/25 - 31/05/25 | Private |
-| Pump | Rust🦀 - Solana | PashovAuditGroup | I | 18/03/25 - 24/03/25 | Private |
+| Pump | Rust🦀 - Solana | PashovAuditGroup | Fixed price token sale | 18/03/25 - 24/03/25 | Private |
 
 
 
