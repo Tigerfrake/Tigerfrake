@@ -36,7 +36,7 @@ Significant DeFi experience (lending, staking, DEXes, yield farming ) & understa
 | Bob | Rust🦀 - Native | PashovAuditGroup | Bitcoin-to-BOB L2 bridge that lets BTC holders swap into ETH-based assets via a relayer, no ETH needed. | 27/08/25 - 30/08/25 | NDA |
 | Starknet | Cairo | PashovAuditGroup | permissionless on-chain staking with delegation, minting-curve rewards, custom commission rates, and withdrawal lockups. | 25/07/25 - 15/08/25 | [Link](https://github.com/pashov/audits/blob/master/team/pdf/Starknet-security-review_2025-07-31.pdf) |
 | BtrFi | Rust🦀 - Solana | PashovAuditGroup | Staking , Voting and Vault programs | 15/07/25 - 22/07/25 | NDA |
-| Regnu | Solidity | PashovAuditGroup | - | 06/05/25 - 31/05/25 | Private |
+| Regnu | Solidity | PashovAuditGroup | Real estate fractionalization protocol enabling on-chain lending and borrowing against tokenized property via NFTs, fractional tokens, and veRAAC governance. | 06/05/25 - 31/05/25 | Private |
 | Pump | Rust🦀 - Solana | PashovAuditGroup | Fixed price token sale | 18/03/25 - 24/03/25 | Private |
 
 
