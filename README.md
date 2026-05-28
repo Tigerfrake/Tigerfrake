@@ -27,7 +27,7 @@ Significant DeFi experience (lending, staking, DEXes, yield farming ) & understa
 | Snowbridge       | Solidity     | HackenProof     | [1 Low](https://x.com/Tigerfrake/status/1980533110698549606?s=20)  |
 
 ### Private Engagements
-| Protocol | Language | Firm | Description | Dates | Report |
+| Protocol | Language | Provider | Description | Dates | Report |
 |----------|----------|------|-------------|-------|--------|
 | Pump | Rust🦀 - Solana | PashovAuditGroup | A constant product AMM program + Bonding Curve | 20/05/26 - 16/06/26 | Audit In Progress |
 | Jito (Judging) | Rust | PashovAuditGroup | - | 13/05/26 - 14/05/26 | N/A |
