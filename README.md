@@ -37,7 +37,7 @@ Significant DeFi experience (lending, staking, DEXes, yield farming ) & understa
 | Starknet | Cairo | PashovAuditGroup | permissionless on-chain staking with delegation, minting-curve rewards, custom commission rates, and withdrawal lockups. | 25/07/25 - 15/08/25 | [Link](https://github.com/pashov/audits/blob/master/team/pdf/Starknet-security-review_2025-07-31.pdf) |
 | BtrFi | Rust🦀 - Solana | PashovAuditGroup | Staking , Voting and Vault programs | 15/07/25 - 22/07/25 | NDA |
 | Regnu | Solidity | PashovAuditGroup | Real estate fractionalization protocol enabling on-chain lending and borrowing against tokenized property via NFTs, fractional tokens, and veRAAC governance. | 06/05/25 - 31/05/25 | Private |
-| Pump | Rust🦀 - Solana | PashovAuditGroup | Fixed price token sale | 18/03/25 - 24/03/25 | Private |
+| Pump | Rust🦀 - Solana | PashovAuditGroup | Fixed price token sale | 18/03/25 - 24/03/25 | [Link](https://github.com/pashov/audits/blob/bed0a845f5af0047206ce423d111673183dba1e9/team/pdf/Pump-security-review_2025-03-18.pdf) |
 
 
 
