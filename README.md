@@ -29,7 +29,7 @@ Significant DeFi experience (lending, staking, DEXes, yield farming ) & understa
 ### Private Engagements
 | Protocol | Language | Firm | Description | Dates | Report |
 |----------|----------|------|-------------|-------|--------|
-| Pump | Rust🦀 - Solana | PashovAuditGroup | - | 20/05/26 - 16/06/26 | Audit In Progress |
+| Pump | Rust🦀 - Solana | PashovAuditGroup | A constant product AMM program + Bonding Curve | 20/05/26 - 16/06/26 | Audit In Progress |
 | Jito (Judging) | Rust | PashovAuditGroup | - | 13/05/26 - 14/05/26 | N/A |
 | Pumpcade | Rust🦀 - Solana | PashovAuditGroup | On-chain prediction market protocol with fixed-outcome markets, pro-rata winner payouts, congestion-based pricing. | 13/04/26 - 16/04/26 | Report In Process |
 | Rewardy | Solidity | Shieldify | Dual-entry smart account (EIP-7702 + ERC-4337 v0.8) powering EIP-7702 wallet, with a separate immutable pause beacon. | 27/04/26 - 08/05/26 | Report In Process |
