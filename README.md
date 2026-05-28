@@ -32,13 +32,25 @@ Significant DeFi experience (lending, staking, DEXes, yield farming ) & understa
 | Pump | Rust🦀 - Solana | PashovAuditGroup | A constant product AMM program + Bonding Curve | 20/05/26 - 16/06/26 | Audit In Progress |
 | Jito (Judging) | Rust | PashovAuditGroup | - | 13/05/26 - 14/05/26 | N/A |
 | Pumpcade | Rust🦀 - Solana | PashovAuditGroup | On-chain prediction market protocol with fixed-outcome markets, pro-rata winner payouts, congestion-based pricing. | 13/04/26 - 16/04/26 | Report In Process |
-| Rewardy | Solidity | Shieldify | Dual-entry smart account (EIP-7702 + ERC-4337 v0.8) powering EIP-7702 wallet, with a separate immutable pause beacon. | 27/04/26 - 08/05/26 | Report In Process |
+| Rewardy | Solidity | ShieldifySec | Dual-entry smart account (EIP-7702 + ERC-4337 v0.8) powering EIP-7702 wallet, with a separate immutable pause beacon. | 27/04/26 - 08/05/26 | Report In Process |
 | Bob | Rust🦀 - Native | PashovAuditGroup | Bitcoin-to-BOB L2 bridge that lets BTC holders swap into ETH-based assets via a relayer, no ETH needed. | 27/08/25 - 30/08/25 | NDA |
+| XStar-NameDAO | Solidity | Secure3Audit | Cross-chain DID and Naming Service | 08/08/25 - 13/08/25 | NDA |
+| Fishcake | Solidity | Secure3Audit | PoW Mining Design: Incentivizes NFT minting and on-chain Fishcake activities. | 30/07/25 - 07/08/25 | NDA |
 | Starknet | Cairo | PashovAuditGroup | permissionless on-chain staking with delegation, minting-curve rewards, custom commission rates, and withdrawal lockups. | 25/07/25 - 15/08/25 | [Link](https://github.com/pashov/audits/blob/master/team/pdf/Starknet-security-review_2025-07-31.pdf) |
 | BtrFi | Rust🦀 - Solana | PashovAuditGroup | Staking , Voting and Vault programs | 15/07/25 - 22/07/25 | NDA |
+| XStar-NameDAO | Solidity | Secure3Audit | Cross-chain DID and Naming Service | 29/06/25 - 07/07/25 | NDA |
+| TevaEra_Guild | Solidity | Secure3Audit | A bonding curve mechanism for token launches and trading.. | 02/06/25 - 10/06/25 | NDA |
+| Cudis | Solidity | Secure3Audit | AI-driven wellness wearables, integrating advanced technology with a decentralized approach to empower users with control over their wellness data. | 26/05/25 - 28/05/25 | NDA |
 | Regnu | Solidity | PashovAuditGroup | Real estate fractionalization protocol enabling on-chain lending and borrowing against tokenized property via NFTs, fractional tokens, and veRAAC governance. | 06/05/25 - 31/05/25 | Private |
+| CookingCity | Solidity | Secure3Audit | Sustainable and value co-creative launchpad on Solana deeply integrated with Meteora’s DLMM and DAMM. | 02/05/25 - 06/05/25 | NDA |
+| FliqOne | Solidity | Secure3Audit | Fliq is a user-driven predictions market platform with a full orderbook based trading functionality. | 19/04/25 - 01/05/25 | NDA |
 | Pump | Rust🦀 - Solana | PashovAuditGroup | Fixed price token sale | 18/03/25 - 24/03/25 | [Link](https://github.com/pashov/audits/blob/bed0a845f5af0047206ce423d111673183dba1e9/team/pdf/Pump-security-review_2025-03-18.pdf) |
-| Lagrange | Solidity | Secure3 | Smart contracts for the Eigenlayer AVS (zkMapReduce AVS ServiceManager) designed to manage operators and their associated strategies within the Eigenlayer ecosystem. | 24/05/24 - 29/05/24 | NDA |
+| Lagrage_LPN | Solidity | Secure3Audit | Smart contracts for the Eigenlayer AVS (zkMapReduce AVS ServiceManager) designed to manage operators and their associated strategies within the Eigenlayer ecosystem. | 11/03/25 - 23/03/25 | NDA |
+| pacARB | Solidity | Secure3Audit | - | 02/12/24 - 07/12/24 | NDA |
+| Klydo | Solidity | Secure3Audit | - | 31/10/24 - 12/11/24 | NDA |
+| Agni Finance | Solidity | Secure3Audit | - | 07/08/24 - 26/08/24 | NDA |
+| ZeekNetwork | Solidity | Secure3Audit | Dapp buiding on OSP ecosystem. | 21/06/24 - 5/07/24 | NDA |
+| Lagrange | Solidity | Secure3Audit | Smart contracts for the Eigenlayer AVS (zkMapReduce AVS ServiceManager) designed to manage operators and their associated strategies within the Eigenlayer ecosystem. | 24/05/24 - 29/05/24 | NDA |
 
 
 
