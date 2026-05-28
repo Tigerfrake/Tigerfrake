@@ -45,12 +45,12 @@ Significant DeFi experience (lending, staking, DEXes, yield farming ) & understa
 | CookingCity | Solidity | Secure3Audit | Sustainable and value co-creative launchpad on Solana deeply integrated with Meteora’s DLMM and DAMM. | 02/05/25 - 06/05/25 | NDA |
 | FliqOne | Move - SUI | Secure3Audit | Fliq is a user-driven predictions market platform with a full orderbook based trading functionality. | 19/04/25 - 01/05/25 | NDA |
 | Pump | Rust🦀 - Solana | PashovAuditGroup | Fixed price token sale | 18/03/25 - 24/03/25 | [Link](https://github.com/pashov/audits/blob/bed0a845f5af0047206ce423d111673183dba1e9/team/pdf/Pump-security-review_2025-03-18.pdf) |
-| Lagrage_LPN | Solidity | Secure3Audit | Smart contracts for the Eigenlayer AVS (zkMapReduce AVS ServiceManager) designed to manage operators and their associated strategies within the Eigenlayer ecosystem. | 11/03/25 - 23/03/25 | NDA |
+| Lagrage_LPN | Solidity | Secure3Audit | Smart contracts for the Eigenlayer AVS (zkMapReduce AVS ServiceManager) | 11/03/25 - 23/03/25 | NDA |
 | pacARB | Solidity | Secure3Audit | - | 02/12/24 - 07/12/24 | NDA |
 | Klydo | Solidity | Secure3Audit | - | 31/10/24 - 12/11/24 | NDA |
 | Agni Finance | Solidity | Secure3Audit | Agni Finance's core and periphery contract architecture and interface design follows the pancake-v3's original design. | 07/08/24 - 26/08/24 | NDA |
 | ZeekNetwork | Solidity | Secure3Audit | Dapp buiding on OSP ecosystem. | 21/06/24 - 05/07/24 | NDA |
-| Lagrange | Solidity | Secure3Audit | Smart contracts for the Eigenlayer AVS (zkMapReduce AVS ServiceManager) designed to manage operators and their associated strategies within the Eigenlayer ecosystem. | 24/05/24 - 29/05/24 | NDA |
+| Lagrange | Solidity | Secure3Audit | Smart contracts for the Eigenlayer AVS (zkMapReduce AVS ServiceManager) | 24/05/24 - 29/05/24 | NDA |
 
 
 
