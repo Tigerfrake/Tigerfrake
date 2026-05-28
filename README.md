@@ -34,7 +34,7 @@ Significant DeFi experience (lending, staking, DEXes, yield farming ) & understa
 | Pumpcade | Rust🦀 - Solana | PashovAuditGroup | - | 13/04/26 - 16/04/26 | Report In Process |
 | Rewardy | Solidity | Shieldify | - | 27/04/26 - 08/05/26 | Report In Process |
 | Bob | Rust🦀 - Native | PashovAuditGroup | Bitcoin-to-BOB L2 bridge that lets BTC holders swap into ETH-based assets via a relayer, no ETH needed. | 27/08/25 - 30/08/25 | NDA |
-| Starknet | Cairo | PashovAuditGroup | - | 25/07/25 - 15/08/25 | [Link](https://github.com/pashov/audits/blob/master/team/pdf/Starknet-security-review_2025-07-31.pdf) |
+| Starknet | Cairo | PashovAuditGroup | Starknet's first staking stage — permissionless on-chain staking with delegation, minting-curve rewards, custom commission rates, and withdrawal lockups. | 25/07/25 - 15/08/25 | [Link](https://github.com/pashov/audits/blob/master/team/pdf/Starknet-security-review_2025-07-31.pdf) |
 | BtrFi | Rust🦀 - Solana | PashovAuditGroup | - | 15/07/25 - 22/07/25 | NDA |
 | Regnu | Solidity | PashovAuditGroup | - | 06/05/25 - 31/05/25 | Private |
 | Pump | Rust🦀 - Solana | PashovAuditGroup | Fixed price token sale | 18/03/25 - 24/03/25 | Private |
