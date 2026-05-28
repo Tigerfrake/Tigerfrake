@@ -38,7 +38,7 @@ Significant DeFi experience (lending, staking, DEXes, yield farming ) & understa
 | BtrFi | Rust🦀 - Solana | PashovAuditGroup | Staking , Voting and Vault programs | 15/07/25 - 22/07/25 | NDA |
 | Regnu | Solidity | PashovAuditGroup | Real estate fractionalization protocol enabling on-chain lending and borrowing against tokenized property via NFTs, fractional tokens, and veRAAC governance. | 06/05/25 - 31/05/25 | Private |
 | Pump | Rust🦀 - Solana | PashovAuditGroup | Fixed price token sale | 18/03/25 - 24/03/25 | [Link](https://github.com/pashov/audits/blob/bed0a845f5af0047206ce423d111673183dba1e9/team/pdf/Pump-security-review_2025-03-18.pdf) |
-| Lagrange | Solidity | Secure3 | Bitcoin-to-BOB L2 bridge that lets BTC holders swap into ETH-based assets via a relayer, no ETH needed. | 24/05/24 - 29/05/24 | NDA |
+| Lagrange | Solidity | Secure3 | Smart contracts for the Eigenlayer AVS (zkMapReduce AVS ServiceManager) designed to manage operators and their associated strategies within the Eigenlayer ecosystem. | 24/05/24 - 29/05/24 | NDA |
 
 
 
