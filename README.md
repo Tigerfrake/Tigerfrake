@@ -31,7 +31,7 @@ Significant DeFi experience (lending, staking, DEXes, yield farming ) & understa
 |----------|----------|------|-------------|-------|--------|
 | Pump | Rust🦀 - Solana | PashovAuditGroup | - | 20/05/26 - 16/06/26 | Audit In Progress |
 | Jito (Judging) | Rust | PashovAuditGroup | - | 13/05/26 - 14/05/26 | N/A |
-| Pumpcade | Rust🦀 - Solana | PashovAuditGroup | - | 13/04/26 - 16/04/26 | Report In Process |
+| Pumpcade | Rust🦀 - Solana | PashovAuditGroup | On-chain prediction market protocol with fixed-outcome markets, pro-rata winner payouts, congestion-based pricing, and separated governance/resolver authority. | 13/04/26 - 16/04/26 | Report In Process |
 | Rewardy | Solidity | Shieldify | Dual-entry smart account (EIP-7702 + ERC-4337 v0.8) powering Korea's first native EIP-7702 wallet, with a separate immutable pause beacon for emergency response via a Guardian/Owner multisig. | 27/04/26 - 08/05/26 | Report In Process |
 | Bob | Rust🦀 - Native | PashovAuditGroup | Bitcoin-to-BOB L2 bridge that lets BTC holders swap into ETH-based assets via a relayer, no ETH needed. | 27/08/25 - 30/08/25 | NDA |
 | Starknet | Cairo | PashovAuditGroup | Starknet's first staking stage — permissionless on-chain staking with delegation, minting-curve rewards, custom commission rates, and withdrawal lockups. | 25/07/25 - 15/08/25 | [Link](https://github.com/pashov/audits/blob/master/team/pdf/Starknet-security-review_2025-07-31.pdf) |
