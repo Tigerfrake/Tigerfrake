@@ -39,9 +39,9 @@ Significant DeFi experience (lending, staking, DEXes, yield farming ) & understa
 | Starknet | Cairo | PashovAuditGroup | permissionless on-chain staking with delegation, minting-curve rewards, custom commission rates, and withdrawal lockups. | 25/07/25 - 15/08/25 | [Link](https://github.com/pashov/audits/blob/master/team/pdf/Starknet-security-review_2025-07-31.pdf) |
 | BtrFi | Rust🦀 - Solana | PashovAuditGroup | Staking , Voting and Vault programs | 15/07/25 - 22/07/25 | NDA |
 | XStar-NameDAO | Rust🦀 | Secure3Audit | Cross-chain DID and Naming Service | 29/06/25 - 07/07/25 | NDA |
-| TevaEra_Guild | Solidity | Secure3Audit | A bonding curve mechanism for token launches and trading.. | 02/06/25 - 10/06/25 | NDA |
+| TevaEra_Guild | Solidity | Secure3Audit | A bonding curve mechanism for token launches and trading. | 02/06/25 - 10/06/25 | NDA |
 | Cudis | Rust🦀 | Secure3Audit | AI-driven wellness wearables, integrating advanced technology with a decentralized approach to empower users with control over their wellness data. | 26/05/25 - 28/05/25 | NDA |
-| Regnu | Solidity | PashovAuditGroup | Real estate fractionalization protocol enabling on-chain lending and borrowing against tokenized property via NFTs, fractional tokens, and veRAAC governance. | 06/05/25 - 31/05/25 | Private |
+| RegnuMaurum | Solidity | PashovAuditGroup | Real estate fractionalization protocol enabling on-chain lending and borrowing against tokenized property via NFTs, fractional tokens, and veRAAC governance. | 06/05/25 - 31/05/25 | Private |
 | CookingCity | Solidity | Secure3Audit | Sustainable and value co-creative launchpad on Solana deeply integrated with Meteora’s DLMM and DAMM. | 02/05/25 - 06/05/25 | NDA |
 | FliqOne | Move - SUI | Secure3Audit | Fliq is a user-driven predictions market platform with a full orderbook based trading functionality. | 19/04/25 - 01/05/25 | NDA |
 | Pump | Rust🦀 - Solana | PashovAuditGroup | Fixed price token sale | 18/03/25 - 24/03/25 | [Link](https://github.com/pashov/audits/blob/bed0a845f5af0047206ce423d111673183dba1e9/team/pdf/Pump-security-review_2025-03-18.pdf) |
@@ -49,7 +49,7 @@ Significant DeFi experience (lending, staking, DEXes, yield farming ) & understa
 | pacARB | Solidity | Secure3Audit | - | 02/12/24 - 07/12/24 | NDA |
 | Klydo | Solidity | Secure3Audit | - | 31/10/24 - 12/11/24 | NDA |
 | Agni Finance | Solidity | Secure3Audit | Agni Finance's core and periphery contract architecture and interface design follows the pancake-v3's original design. | 07/08/24 - 26/08/24 | NDA |
-| ZeekNetwork | Solidity | Secure3Audit | Dapp buiding on OSP ecosystem. | 21/06/24 - 5/07/24 | NDA |
+| ZeekNetwork | Solidity | Secure3Audit | Dapp buiding on OSP ecosystem. | 21/06/24 - 05/07/24 | NDA |
 | Lagrange | Solidity | Secure3Audit | Smart contracts for the Eigenlayer AVS (zkMapReduce AVS ServiceManager) designed to manage operators and their associated strategies within the Eigenlayer ecosystem. | 24/05/24 - 29/05/24 | NDA |
 
 
