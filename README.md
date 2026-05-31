@@ -30,7 +30,7 @@ Significant DeFi experience (lending, staking, DEXes, yield farming ) & understa
 | Protocol | Language | Provider | Description | Dates | Report |
 |----------|----------|------|-------------|-------|--------|
 | Pump | Rust🦀 - Solana | PashovAuditGroup | Constant product AMM + Bonding Curve | 20/05/26 - 16/06/26 | Audit In Progress |
-| Jito (Judging) | Rust | PashovAuditGroup | - | 13/05/26 - 14/05/26 | N/A |
+| Jito (Judging) | Rust | PashovAuditGroup | - | 13/05/26 - 14/05/26 | NDA |
 | Pumpcade | Rust🦀 - Solana | PashovAuditGroup | On-chain prediction market with fixed-outcome markets and pro-rata payouts | 13/04/26 - 16/04/26 | Report In Process |
 | Rewardy | Solidity | ShieldifySec | Dual-entry smart account (EIP-7702 + ERC-4337 v0.8) with immutable pause beacon | 27/04/26 - 08/05/26 | Report In Process |
 | Bob | Rust🦀 - Native | PashovAuditGroup | BTC-to-BOB L2 bridge via relayer, no ETH needed | 27/08/25 - 30/08/25 | NDA |
