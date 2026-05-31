@@ -1,4 +1,4 @@
-3+ years of blockchain security research experience - developed an attacker mindset before the age of AI auditing.
+3+ years of blockchain security research experience.
 
 ### Expertise
 Proficiency in auditing smart contracts for EVM/Non-Evm chains:
