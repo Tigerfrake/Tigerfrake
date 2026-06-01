@@ -24,7 +24,7 @@ Specializing in DeFi protocols — lending, staking, DEXes, yield farming — wi
 
 ---
 
-## Contest Highlights — Top 10 Finishes (> $20k in Rewards)
+## Contest Highlights — Top 10 Finishes
 
 | Protocol | Language | Platform | Rank | Findings |
 |---|---|---|---|---|
