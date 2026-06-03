@@ -20,7 +20,7 @@ Specializing in DeFi protocols — lending, staking, DEXes, yield farming — wi
 
 ## Audit Portfolio
 
- ·    https://audits.sherlock.xyz/watson/Tigerfrake
+  [Link](https://audits.sherlock.xyz/watson/Tigerfrake)
 
 ---
 
