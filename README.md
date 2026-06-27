@@ -49,7 +49,7 @@ Specializing in DeFi protocols — lending, staking, DEXes, yield farming — wi
 
 | Protocol | Language | Provider | Description | Dates | Report |
 |---|---|---|---|---|---|
-| WePiggy *(triaging)* | Solidity | PashovAuditGroup | — | Jun 23–25, 2026 | Ongoing |
+| WePiggy *(triaging)* | Solidity | PashovAuditGroup | — | Jun 23–25, 2026 | NDA |
 | Pump | Rust · Solana | PashovAuditGroup | Constant product AMM + Bonding Curve | May 20 – Jun 16, 2026 | In Process |
 | Jito *(triaging)* | Rust | PashovAuditGroup | — | May 13–14, 2026 | NDA |
 | Pumpcade | Rust · Solana | PashovAuditGroup | On-chain prediction market with fixed-outcome markets and pro-rata payouts | Apr 13–16, 2026 | In Process |
